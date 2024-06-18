@@ -1,0 +1,6 @@
+ch = input(" Quelle est la chaine ?")
+c = ("e")
+if c in ch :
+    print("La chaine contient le caractère e")
+else :
+    print("La chaine ne contient pas le caractère e")
